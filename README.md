@@ -15,7 +15,7 @@ Instructor: <strong>Asif Ahmed Neloy</strong> (email: <strong>asif.neloy@northso
 * **P.S. Make Sure you have studied the class lecture and slides, and the questions are well prepared before joining.**
 </p>
 
-## _Course Description:_ (Outline - <a href="https://github.com/aaneloy/CSE331L-Section-10-Fall20-NSU/blob/main/Course%20Material/CSE331L_Course_Outline_Fall_2020_Section_10.pdf">Here</a>)
+## _Course Description:_ (Outline - <a href="https://github.com/aaneloy/CSE331L-Section-1-Fall20-NSU/blob/master/Course%20Material/CSE331L_Course_Outline_Fall_2020_Section_1.pdf">Here</a>)
 <p align="justify">
 This course provides an introduction to the fundamental concept of microprocessor architecture and microprocessor based embedded systems. A basic idea of the internal and external architecture of the microprocessor 8086 will be provided followed by the physical pin diagram of microprocessor 8086. The course will also cover the other peripheral devices of a microprocessor based system i.e. RAM 6116, PIO 8255 Controller and 7-Segment Display. The course will then cover the programming languages for interfacing: Assembly language followed by Interrupt and data conversion algorithm. A brief introduction to the Microcontroller 8051 will also be provided. Simulation software tool: emulator 8086 will be introduced in the laboratory classes for doing simulation-based project works. This course has separate mandatory laboratory session every week as CSE 331L.
 </p>
@@ -139,7 +139,7 @@ This course provides an introduction to the fundamental concept of microprocesso
 1. Signup **Github** by using your **NSU** email address and verify the email. Your Github Name should be - **NSU_ID - Last_Name** (e.g. - 1510839042-Neloy)
 2. Signup for **Github Education Pack**, make sure you have ![Pro](https://webapps.stackexchange.com/questions/123808/github-whats-this-pro-tag-on-my-profile) badge in your profile.  
 3. Install the required software. (For **Github Desktop**, see this - https://www.youtube.com/watch?v=dL6t3jAA05w)
-4. Open Git command prompt (*Git Bash Here*) and Clone this Repo (```git clone https://github.com/aaneloy/CSE331L-Section-10-Fall20-NSU```) and make it **private**.
+4. Open Git command prompt (*Git Bash Here*) and Clone this Repo (```git clone https://github.com/aaneloy/CSE331L-Section-1-Fall20-NSU```) and make it **private**.
 5. Open the Repo. (```cd <Repo Directory>```)
 6. Put your code in the appropriate Folder.
 7. Add files to your Repo (```git add .```).
@@ -151,9 +151,9 @@ This course provides an introduction to the fundamental concept of microprocesso
 
 ## _Submission Links_:
 
-* _Homework:_ (Submission <a href="https://github.com/aaneloy/CSE331L-Section-10-Fall20-NSU/tree/main/Homework%20Submission">Link</a>)
+* _Homework:_ (Submission <a href="https://github.com/aaneloy/CSE331L-Section-1-Fall20-NSU/tree/master/Homework%20Submission">Link</a>)
 
-* _Lab Assessment:_ (Submission <a href="https://github.com/aaneloy/CSE331L-Section-10-Fall20-NSU/tree/main/Lab%20Assessment%20Submission">Link</a>)
+* _Lab Assessment:_ (Submission <a href="https://github.com/aaneloy/CSE331L-Section-1-Fall20-NSU/tree/master/Lab%20Assessment%20Submission">Link</a>)
 
 ## _Lab Resource_:
 
