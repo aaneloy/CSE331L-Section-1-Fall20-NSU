@@ -21,7 +21,7 @@ This course provides an introduction to the fundamental concept of microprocesso
 </p>
 
 ## _Lab Hours:_
-* Wednesday: 8.00 am to 11.10 pm.
+* Saturday: 8.00 am to 11.10 pm.
 * **Lab will start from 8.10 am and attendance will be taken on 8.20 am**
 
 ## _Mark Distribution:_
