@@ -124,15 +124,16 @@ This course provides an introduction to the fundamental concept of microprocesso
 </table>
 </p>
 
-## _Required Software (MAC OS and Windows 10):_
+## _Required Software:_
 
+### (MAC OS and Windows 10)
 1. **EMU8086** - https://emu8086-microprocessor-emulator.en.softonic.com/download
 2. **Proteus, MikroC, PicKit3 Programmer** - https://drive.google.com/drive/folders/1nIcUIjz8zcJ1pOLng5mP7JQ1xtKrWsE_?usp=sharing
 3. **VS Code** - https://code.visualstudio.com/download
 4. **Git SCM** - https://git-scm.com/downloads
 5. **Github Desktop** - https://desktop.github.com/
 
-## _Required Software (Linux):_
+### Linux
 There is no alternative to **EMU8086** and other software. What you can do, create a **Virtual Machine** inside the ubuntu distributor and run Windows 10 there. Alternatively, **Wine** is a good option too, but Proteus will not run there. So the best shot will be to use Windows 10 inside a Virtual Machine.
 
 Some useful links are attached.
