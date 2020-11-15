@@ -128,7 +128,7 @@ This course provides an introduction to the fundamental concept of microprocesso
 ## _Required Software:_
 
 ### MAC OS and Windows 10
-1. **EMU8086** - https://emu8086-microprocessor-emulator.en.softonic.com/download
+1. **EMU8086** - https://emu8086-microprocessor-emulator.en.softonic.com/download (Registration key - 27R3VDEFYFX4N0VC3FRTQZX)
 2. **Proteus, MikroC, PicKit3 Programmer** - https://drive.google.com/drive/folders/1nIcUIjz8zcJ1pOLng5mP7JQ1xtKrWsE_?usp=sharing
 3. **VS Code** - https://code.visualstudio.com/download
 4. **Git SCM** - https://git-scm.com/downloads
