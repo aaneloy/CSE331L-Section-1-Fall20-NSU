@@ -1,0 +1,5 @@
+Videos:
+1. Installation of Proteus - https://www.youtube.com/watch?v=k__AlXLOot0
+2. Debugging Proteus - https://www.youtube.com/watch?v=8WUGe-Go-38
+3. Intro to Proteus - https://www.youtube.com/watch?v=PsJeNMyGX3I&t
+4. Basics of Proteus - https://www.youtube.com/watch?v=NJIbSI6qG6Q
