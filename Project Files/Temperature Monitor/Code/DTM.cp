@@ -1,4 +1,4 @@
-#line 1 "C:/Users/neloy/Dropbox/NSU Lab Officer/Semester/Fall'20/CSE331 Section 10/Project Files/Temperature Monitor/Code/DTM.c"
+#line 1 "C:/Users/neloy/Dropbox/NSU Lab Officer/Semester/Fall'20/CSE331 Section 1/CSE331L-Section-1-Fall20-NSU-main/Project Files/Temperature Monitor/Code/DTM.c"
 
 sbit LCD_D7 at RB2_bit;
 sbit LCD_D6 at RB3_bit;
